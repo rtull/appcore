@@ -1,0 +1,15 @@
+/*** BASICS ***/
+html * { padding: 0; margin: 0; }
+html { color: #300; font-family: "Trebuchet MS", sans-serif; font-size: 12pt; text-align: center; -webkit-text-size-adjust: none; }
+body { width: 100%; max-width: 800px; margin: 10px auto; }
+a, a img { color: #300; border: none; outline: none; }
+
+/*** CONTENT ***/
+#content { text-align: center; }
+
+#content h1 { color: #fff; height: 85px; background: url(images/core_logo.png) no-repeat; padding: 11px; margin-bottom: 15px; font-size: 20pt; font-weight: normal; margin: 0 auto; text-indent: -9999px; width: 264px; }
+#content p { margin: 0 10px 15px; text-align: left; }
+#content ul { margin: 0 35px 15px; text-align: left; }
+
+/*** FOOTER ***/
+#footer { margin: 0 10px 25px; clear: both; text-align: center; }

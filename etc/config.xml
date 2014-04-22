@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+    <!-- DB Connection Credentials -->
+    <db>
+        <host>host_url</host>
+        <user>username</user>
+        <pass>password</pass>
+        <name>database_name</name>
+    </db>
+    <!-- User Session -->
+    <session>
+        <loc>var/session</loc>
+    </session>
+</app>

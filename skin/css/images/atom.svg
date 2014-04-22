@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="atom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<path id="orbit_x5F_3" fill="none" stroke="#000000" stroke-width="15" d="M386.494,235.724
+	c0,102.296-18.887,185.224-42.188,185.224c-23.299,0-42.187-82.928-42.187-185.224S321.008,50.5,344.307,50.5
+	C367.607,50.5,386.494,133.428,386.494,235.724z"/>
+<path id="orbit_x5F_2" fill="none" stroke="#000000" stroke-width="15" d="M365.4,272.259
+	c-88.591,51.148-169.852,76.254-181.501,56.076s50.723-77.999,139.314-129.147s169.853-76.254,181.502-56.076
+	C516.364,163.29,453.991,221.111,365.4,272.259z"/>
+<path id="orbit_x5F_1" fill="none" stroke="#000000" stroke-width="15" d="M323.213,272.259
+	c88.592,51.148,169.853,76.254,181.502,56.076c11.65-20.178-50.723-77.999-139.314-129.147
+	c-88.59-51.148-169.852-76.254-181.501-56.076C172.25,163.29,234.623,221.111,323.213,272.259z"/>
+<path id="dot" stroke="#000000" stroke-width="15" stroke-linecap="round" d="M361.986,235.724c0,9.764-7.916,17.679-17.68,17.679
+	s-17.678-7.915-17.678-17.679s7.914-17.679,17.678-17.679S361.986,225.96,361.986,235.724z"/>
+<circle fill="none" stroke="#333366" stroke-width="15" cx="344.308" cy="235.723" r="215.5"/>
+</svg>
